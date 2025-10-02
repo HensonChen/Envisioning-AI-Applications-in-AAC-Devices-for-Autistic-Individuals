@@ -2,6 +2,12 @@
 
 ## Caregiver Perspectives and Design Ideation for Communication Disabilities
 
+[**View the Research Poster**](./ai-aac-poster-final.pdf)
+
+**View Prototypes:**
+* [AI-powered AAC device & caregiver dashboard](https://v0.app/chat/ai-aided-child-assistant-sF1MSywx7iF?f=1&b=b_Nnl2euynLux)
+* [AI-powered Communication Trainer](https://v0.app/chat/ai-powered-aac-device-ofeTh75AwDd?f=1&b=b_zcLrmvFhXMT)
+
 This repository contains information related to the research project conducted at the University of Washington, Department of Human-Centered Design & Engineering.
 
 ---
